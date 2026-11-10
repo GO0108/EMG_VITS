@@ -1,0 +1,21 @@
+# Local project data
+vits/
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Logs and local artifacts
+*.log
+results/
